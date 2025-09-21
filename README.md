@@ -4,8 +4,8 @@ Senior Design Project – UAV Powertrain Health Monitoring (Fall 2025)
 # UAV Health Monitoring
 
 ## Team Members
-- **Prissha Chawla (CS)** – prissha.chawla@uc.edu
-- **Siddharth Urankar (CS)** – urankasa@mail.uc.edu
+- **Prissha Chawla (CS)** – chawlaps@uc.edu
+- **Siddharth Urankar (CS)** – urankasj@mail.uc.edu
 - **Ally Blair (ME)** – blairar@mail.uc.edu
 
 ## Faculty/Industry Advisors
