@@ -24,14 +24,36 @@ This system will integrate both models to provide real-time in-flight diagnostic
 UAV-HealthMonitoring/
 │
 ├── README.md
-├── Project-Description.md
 │
-├── PROFESSIONAL_BIOS/
-│   ├── Siddharth_Urankar_Bio.md
-│   ├── Prissha_Chawla_Bio.md
-│   └── Ally_Blair_Bio.md
+├── reports/
+│   ├── Fall_Design_Report_Siddharth.pdf
+│   ├── Fall_Design_Report_Team.pdf      (optional, if you upload team version)
 │
-└── docs/
-    ├── Advisor_Approval.pdf
-    ├── Project_Decision_Framework.pdf
-    └── References.md
+├── docs/
+│   ├── assignments/
+│   │   ├── Senior_Design_Assignment_2.docx
+│   │   ├── Part_2_Prissha.docx
+│   │   └── Decsion_Making.docx
+│   │
+│   ├── management/
+│   │   ├── Team_Contract_CS.pdf
+│   │   ├── UAV_Health_Monitoring_Task_List.pdf
+│   │   └── Meeting_Takeaways_Prissha.docx
+│   │
+│   ├── design/
+│   │   ├── User_Stories_Design_Diagrams_1.pdf
+│   │   ├── User_Stories_Design_Diagrams_2.pdf
+│   │   └── Design_Diagrams/              (existing folder)
+│   │
+│   └── data_tools/
+│       ├── Inventory_Data_Collection.xlsm
+│       └── Inventory_and_DataCollection.xlsx
+│
+├── bios/
+│   ├── Siddharth_Urankar_Professional_Biography.md
+│   ├── Professional_Biography_Prissha.docx
+│   └── Ally_Blair_Bio_placeholder.md     (can be a small markdown file)
+│
+└── meta/
+    └── OneDrive_Location.md
+
