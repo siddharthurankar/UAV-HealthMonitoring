@@ -1,0 +1,9 @@
+Team Name: UAV Health Monitoring
+
+Team Members:
+- Prissha Chawla (CS) – chawlaps@mail.uc.edu
+- Siddharth Urankar (CS) – urankasj@mail.uc.edu
+- Ally Blair (ME) – blaira3@mail.uc.edu
+
+Project Topic Area:
+In-flight UAV powertrain health monitoring using machine learning for anomaly detection and degradation prediction. A drone will be built to collect motor acoustic and battery cycling data. Motor health is monitored via a semi-supervised 1D CNN Autoencoder trained on healthy BLDC motor acoustics, and battery health is assessed using a supervised Deep Operator Network (DeepONet) on voltage–current profiles. Both models integrate into real-time diagnostics supporting preflight readiness and inflight anomaly detection within IASMS.
