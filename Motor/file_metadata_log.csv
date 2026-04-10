@@ -1,0 +1,1173 @@
+filename,source_file,is_synthetic,status,motor,propeller,condition,condition_desc
+H001.wav,H001,False,Healthy,MH2,PR,1,Stable RPM
+H109.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H110.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H111.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H112.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H113.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H114.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H115.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H116.wav,H001,True,Healthy,MH2,PR,1,Stable RPM
+H002.wav,H002,False,Healthy,MH2,PR,2,Low-High RPM
+H117.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H118.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H119.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H120.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H121.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H122.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H123.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H124.wav,H002,True,Healthy,MH2,PR,2,Low-High RPM
+H003.wav,H003,False,Healthy,MH2,PR,3,High-Low RPM
+H125.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H126.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H127.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H128.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H129.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H130.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H131.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H132.wav,H003,True,Healthy,MH2,PR,3,High-Low RPM
+H004.wav,H004,False,Healthy,MH2,PR,4,Low-High-Low RPM
+H133.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H134.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H135.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H136.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H137.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H138.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H139.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H140.wav,H004,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H005.wav,H005,False,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H141.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H142.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H143.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H144.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H145.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H146.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H147.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H148.wav,H005,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H006.wav,H006,False,Healthy,MH2,PR,6,Turn Left
+H149.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H150.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H151.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H152.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H153.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H154.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H155.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H156.wav,H006,True,Healthy,MH2,PR,6,Turn Left
+H007.wav,H007,False,Healthy,MH2,PR,7,Turn Right
+H157.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H158.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H159.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H160.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H161.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H162.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H163.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H164.wav,H007,True,Healthy,MH2,PR,7,Turn Right
+H008.wav,H008,False,Healthy,MH2,PR,8,Pitch Right
+H165.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H166.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H167.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H168.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H169.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H170.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H171.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H172.wav,H008,True,Healthy,MH2,PR,8,Pitch Right
+H009.wav,H009,False,Healthy,MH2,PR,9,Pitch Left
+H173.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H174.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H175.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H176.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H177.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H178.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H179.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H180.wav,H009,True,Healthy,MH2,PR,9,Pitch Left
+H010.wav,H010,False,Healthy,MH4,PR,1,Stable RPM
+H181.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H182.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H183.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H184.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H185.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H186.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H187.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H188.wav,H010,True,Healthy,MH4,PR,1,Stable RPM
+H011.wav,H011,False,Healthy,MH4,PR,2,Low-High RPM
+H189.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H190.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H191.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H192.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H193.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H194.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H195.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H196.wav,H011,True,Healthy,MH4,PR,2,Low-High RPM
+H012.wav,H012,False,Healthy,MH4,PR,3,High-Low RPM
+H197.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H198.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H199.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H200.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H201.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H202.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H203.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H204.wav,H012,True,Healthy,MH4,PR,3,High-Low RPM
+H013.wav,H013,False,Healthy,MH4,PR,4,Low-High-Low RPM
+H205.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H206.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H207.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H208.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H209.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H210.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H211.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H212.wav,H013,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H014.wav,H014,False,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H213.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H214.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H215.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H216.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H217.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H218.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H219.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H220.wav,H014,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H015.wav,H015,False,Healthy,MH4,PR,6,Turn Left
+H221.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H222.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H223.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H224.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H225.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H226.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H227.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H228.wav,H015,True,Healthy,MH4,PR,6,Turn Left
+H016.wav,H016,False,Healthy,MH4,PR,7,Turn Right
+H229.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H230.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H231.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H232.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H233.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H234.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H235.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H236.wav,H016,True,Healthy,MH4,PR,7,Turn Right
+H017.wav,H017,False,Healthy,MH4,PR,8,Pitch Right
+H237.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H238.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H239.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H240.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H241.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H242.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H243.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H244.wav,H017,True,Healthy,MH4,PR,8,Pitch Right
+H018.wav,H018,False,Healthy,MH4,PR,9,Pitch Left
+H245.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H246.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H247.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H248.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H249.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H250.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H251.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H252.wav,H018,True,Healthy,MH4,PR,9,Pitch Left
+H019.wav,H019,False,Healthy,MH3,PR,1,Stable RPM
+H253.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H254.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H255.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H256.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H257.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H258.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H259.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H260.wav,H019,True,Healthy,MH3,PR,1,Stable RPM
+H020.wav,H020,False,Healthy,MH3,PR,2,Low-High RPM
+H261.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H262.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H263.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H264.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H265.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H266.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H267.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H268.wav,H020,True,Healthy,MH3,PR,2,Low-High RPM
+H021.wav,H021,False,Healthy,MH3,PR,3,High-Low RPM
+H269.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H270.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H271.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H272.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H273.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H274.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H275.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H276.wav,H021,True,Healthy,MH3,PR,3,High-Low RPM
+H022.wav,H022,False,Healthy,MH3,PR,4,Low-High-Low RPM
+H277.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H278.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H279.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H280.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H281.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H282.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H283.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H284.wav,H022,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H023.wav,H023,False,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H285.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H286.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H287.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H288.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H289.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H290.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H291.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H292.wav,H023,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H024.wav,H024,False,Healthy,MH3,PR,6,Turn Left
+H293.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H294.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H295.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H296.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H297.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H298.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H299.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H300.wav,H024,True,Healthy,MH3,PR,6,Turn Left
+H025.wav,H025,False,Healthy,MH3,PR,7,Turn Right
+H301.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H302.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H303.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H304.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H305.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H306.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H307.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H308.wav,H025,True,Healthy,MH3,PR,7,Turn Right
+H026.wav,H026,False,Healthy,MH3,PR,8,Pitch Right
+H309.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H310.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H311.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H312.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H313.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H314.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H315.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H316.wav,H026,True,Healthy,MH3,PR,8,Pitch Right
+H027.wav,H027,False,Healthy,MH3,PR,9,Pitch Left
+H317.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H318.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H319.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H320.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H321.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H322.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H323.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H324.wav,H027,True,Healthy,MH3,PR,9,Pitch Left
+H028.wav,H028,False,Healthy,MH4,PR,1,Stable RPM
+H325.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H326.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H327.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H328.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H329.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H330.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H331.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H332.wav,H028,True,Healthy,MH4,PR,1,Stable RPM
+H029.wav,H029,False,Healthy,MH4,PR,2,Low-High RPM
+H333.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H334.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H335.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H336.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H337.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H338.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H339.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H340.wav,H029,True,Healthy,MH4,PR,2,Low-High RPM
+H030.wav,H030,False,Healthy,MH4,PR,3,High-Low RPM
+H341.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H342.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H343.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H344.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H345.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H346.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H347.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H348.wav,H030,True,Healthy,MH4,PR,3,High-Low RPM
+H031.wav,H031,False,Healthy,MH4,PR,4,Low-High-Low RPM
+H349.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H350.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H351.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H352.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H353.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H354.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H355.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H356.wav,H031,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H032.wav,H032,False,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H357.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H358.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H359.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H360.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H361.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H362.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H363.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H364.wav,H032,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H033.wav,H033,False,Healthy,MH4,PR,6,Turn Left
+H365.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H366.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H367.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H368.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H369.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H370.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H371.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H372.wav,H033,True,Healthy,MH4,PR,6,Turn Left
+H034.wav,H034,False,Healthy,MH4,PR,7,Turn Right
+H373.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H374.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H375.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H376.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H377.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H378.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H379.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H380.wav,H034,True,Healthy,MH4,PR,7,Turn Right
+H035.wav,H035,False,Healthy,MH4,PR,8,Pitch Right
+H381.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H382.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H383.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H384.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H385.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H386.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H387.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H388.wav,H035,True,Healthy,MH4,PR,8,Pitch Right
+H036.wav,H036,False,Healthy,MH4,PR,9,Pitch Left
+H389.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H390.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H391.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H392.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H393.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H394.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H395.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H396.wav,H036,True,Healthy,MH4,PR,9,Pitch Left
+H037.wav,H037,False,Healthy,MH2,PR,1,Stable RPM
+H397.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H398.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H399.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H400.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H401.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H402.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H403.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H404.wav,H037,True,Healthy,MH2,PR,1,Stable RPM
+H038.wav,H038,False,Healthy,MH2,PR,2,Low-High RPM
+H405.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H406.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H407.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H408.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H409.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H410.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H411.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H412.wav,H038,True,Healthy,MH2,PR,2,Low-High RPM
+H039.wav,H039,False,Healthy,MH2,PR,3,High-Low RPM
+H413.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H414.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H415.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H416.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H417.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H418.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H419.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H420.wav,H039,True,Healthy,MH2,PR,3,High-Low RPM
+H040.wav,H040,False,Healthy,MH2,PR,4,Low-High-Low RPM
+H421.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H422.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H423.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H424.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H425.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H426.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H427.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H428.wav,H040,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H041.wav,H041,False,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H429.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H430.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H431.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H432.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H433.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H434.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H435.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H436.wav,H041,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H042.wav,H042,False,Healthy,MH2,PR,6,Turn Left
+H437.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H438.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H439.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H440.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H441.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H442.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H443.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H444.wav,H042,True,Healthy,MH2,PR,6,Turn Left
+H043.wav,H043,False,Healthy,MH2,PR,7,Turn Right
+H445.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H446.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H447.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H448.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H449.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H450.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H451.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H452.wav,H043,True,Healthy,MH2,PR,7,Turn Right
+H044.wav,H044,False,Healthy,MH2,PR,8,Pitch Right
+H453.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H454.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H455.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H456.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H457.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H458.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H459.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H460.wav,H044,True,Healthy,MH2,PR,8,Pitch Right
+H045.wav,H045,False,Healthy,MH2,PR,9,Pitch Left
+H461.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H462.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H463.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H464.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H465.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H466.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H467.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H468.wav,H045,True,Healthy,MH2,PR,9,Pitch Left
+H046.wav,H046,False,Healthy,MH3,PR,1,Stable RPM
+H469.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H470.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H471.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H472.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H473.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H474.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H475.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H476.wav,H046,True,Healthy,MH3,PR,1,Stable RPM
+H047.wav,H047,False,Healthy,MH3,PR,2,Low-High RPM
+H477.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H478.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H479.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H480.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H481.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H482.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H483.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H484.wav,H047,True,Healthy,MH3,PR,2,Low-High RPM
+H048.wav,H048,False,Healthy,MH3,PR,3,High-Low RPM
+H485.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H486.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H487.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H488.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H489.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H490.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H491.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H492.wav,H048,True,Healthy,MH3,PR,3,High-Low RPM
+H049.wav,H049,False,Healthy,MH3,PR,4,Low-High-Low RPM
+H493.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H494.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H495.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H496.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H497.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H498.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H499.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H500.wav,H049,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H050.wav,H050,False,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H501.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H502.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H503.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H504.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H505.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H506.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H507.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H508.wav,H050,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H051.wav,H051,False,Healthy,MH3,PR,6,Turn Left
+H509.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H510.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H511.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H512.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H513.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H514.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H515.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H516.wav,H051,True,Healthy,MH3,PR,6,Turn Left
+H052.wav,H052,False,Healthy,MH3,PR,7,Turn Right
+H517.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H518.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H519.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H520.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H521.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H522.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H523.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H524.wav,H052,True,Healthy,MH3,PR,7,Turn Right
+H053.wav,H053,False,Healthy,MH3,PR,8,Pitch Right
+H525.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H526.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H527.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H528.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H529.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H530.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H531.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H532.wav,H053,True,Healthy,MH3,PR,8,Pitch Right
+H054.wav,H054,False,Healthy,MH3,PR,9,Pitch Left
+H533.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H534.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H535.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H536.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H537.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H538.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H539.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H540.wav,H054,True,Healthy,MH3,PR,9,Pitch Left
+H055.wav,H055,False,Healthy,MH1,PR,1,Stable RPM
+H541.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H542.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H543.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H544.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H545.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H546.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H547.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H548.wav,H055,True,Healthy,MH1,PR,1,Stable RPM
+H056.wav,H056,False,Healthy,MH1,PR,2,Low-High RPM
+H549.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H550.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H551.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H552.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H553.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H554.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H555.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H556.wav,H056,True,Healthy,MH1,PR,2,Low-High RPM
+H057.wav,H057,False,Healthy,MH1,PR,3,High-Low RPM
+H557.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H558.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H559.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H560.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H561.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H562.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H563.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H564.wav,H057,True,Healthy,MH1,PR,3,High-Low RPM
+H058.wav,H058,False,Healthy,MH1,PR,4,Low-High-Low RPM
+H565.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H566.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H567.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H568.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H569.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H570.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H571.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H572.wav,H058,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H059.wav,H059,False,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H573.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H574.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H575.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H576.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H577.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H578.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H579.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H580.wav,H059,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H060.wav,H060,False,Healthy,MH1,PR,6,Turn Left
+H581.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H582.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H583.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H584.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H585.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H586.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H587.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H588.wav,H060,True,Healthy,MH1,PR,6,Turn Left
+H061.wav,H061,False,Healthy,MH1,PR,7,Turn Right
+H589.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H590.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H591.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H592.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H593.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H594.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H595.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H596.wav,H061,True,Healthy,MH1,PR,7,Turn Right
+H062.wav,H062,False,Healthy,MH1,PR,8,Pitch Right
+H597.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H598.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H599.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H600.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H601.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H602.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H603.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H604.wav,H062,True,Healthy,MH1,PR,8,Pitch Right
+H063.wav,H063,False,Healthy,MH1,PR,9,Pitch Left
+H605.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H606.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H607.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H608.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H609.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H610.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H611.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H612.wav,H063,True,Healthy,MH1,PR,9,Pitch Left
+H064.wav,H064,False,Healthy,MH1,PR,1,Stable RPM
+H613.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H614.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H615.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H616.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H617.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H618.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H619.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H620.wav,H064,True,Healthy,MH1,PR,1,Stable RPM
+H065.wav,H065,False,Healthy,MH1,PR,2,Low-High RPM
+H621.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H622.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H623.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H624.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H625.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H626.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H627.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H628.wav,H065,True,Healthy,MH1,PR,2,Low-High RPM
+H066.wav,H066,False,Healthy,MH1,PR,3,High-Low RPM
+H629.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H630.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H631.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H632.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H633.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H634.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H635.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H636.wav,H066,True,Healthy,MH1,PR,3,High-Low RPM
+H067.wav,H067,False,Healthy,MH1,PR,4,Low-High-Low RPM
+H637.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H638.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H639.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H640.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H641.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H642.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H643.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H644.wav,H067,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H068.wav,H068,False,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H645.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H646.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H647.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H648.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H649.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H650.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H651.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H652.wav,H068,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H069.wav,H069,False,Healthy,MH1,PR,6,Turn Left
+H653.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H654.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H655.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H656.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H657.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H658.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H659.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H660.wav,H069,True,Healthy,MH1,PR,6,Turn Left
+H070.wav,H070,False,Healthy,MH1,PR,7,Turn Right
+H661.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H662.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H663.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H664.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H665.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H666.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H667.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H668.wav,H070,True,Healthy,MH1,PR,7,Turn Right
+H071.wav,H071,False,Healthy,MH1,PR,8,Pitch Right
+H669.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H670.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H671.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H672.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H673.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H674.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H675.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H676.wav,H071,True,Healthy,MH1,PR,8,Pitch Right
+H072.wav,H072,False,Healthy,MH1,PR,9,Pitch Left
+H677.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H678.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H679.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H680.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H681.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H682.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H683.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H684.wav,H072,True,Healthy,MH1,PR,9,Pitch Left
+H073.wav,H073,False,Healthy,MH2,PR,1,Stable RPM
+H685.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H686.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H687.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H688.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H689.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H690.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H691.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H692.wav,H073,True,Healthy,MH2,PR,1,Stable RPM
+H074.wav,H074,False,Healthy,MH2,PR,2,Low-High RPM
+H693.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H694.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H695.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H696.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H697.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H698.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H699.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H700.wav,H074,True,Healthy,MH2,PR,2,Low-High RPM
+H075.wav,H075,False,Healthy,MH2,PR,3,High-Low RPM
+H701.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H702.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H703.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H704.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H705.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H706.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H707.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H708.wav,H075,True,Healthy,MH2,PR,3,High-Low RPM
+H076.wav,H076,False,Healthy,MH2,PR,4,Low-High-Low RPM
+H709.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H710.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H711.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H712.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H713.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H714.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H715.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H716.wav,H076,True,Healthy,MH2,PR,4,Low-High-Low RPM
+H077.wav,H077,False,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H717.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H718.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H719.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H720.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H721.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H722.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H723.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H724.wav,H077,True,Healthy,MH2,PR,5,Change in RPM with change in pitch
+H078.wav,H078,False,Healthy,MH2,PR,6,Turn Left
+H725.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H726.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H727.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H728.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H729.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H730.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H731.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H732.wav,H078,True,Healthy,MH2,PR,6,Turn Left
+H079.wav,H079,False,Healthy,MH2,PR,7,Turn Right
+H733.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H734.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H735.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H736.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H737.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H738.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H739.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H740.wav,H079,True,Healthy,MH2,PR,7,Turn Right
+H080.wav,H080,False,Healthy,MH2,PR,8,Pitch Right
+H741.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H742.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H743.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H744.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H745.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H746.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H747.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H748.wav,H080,True,Healthy,MH2,PR,8,Pitch Right
+H081.wav,H081,False,Healthy,MH2,PR,9,Pitch Left
+H749.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H750.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H751.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H752.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H753.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H754.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H755.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H756.wav,H081,True,Healthy,MH2,PR,9,Pitch Left
+H082.wav,H082,False,Healthy,MH4,PR,1,Stable RPM
+H757.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H758.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H759.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H760.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H761.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H762.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H763.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H764.wav,H082,True,Healthy,MH4,PR,1,Stable RPM
+H083.wav,H083,False,Healthy,MH4,PR,2,Low-High RPM
+H765.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H766.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H767.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H768.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H769.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H770.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H771.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H772.wav,H083,True,Healthy,MH4,PR,2,Low-High RPM
+H084.wav,H084,False,Healthy,MH4,PR,3,High-Low RPM
+H773.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H774.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H775.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H776.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H777.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H778.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H779.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H780.wav,H084,True,Healthy,MH4,PR,3,High-Low RPM
+H085.wav,H085,False,Healthy,MH4,PR,4,Low-High-Low RPM
+H781.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H782.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H783.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H784.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H785.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H786.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H787.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H788.wav,H085,True,Healthy,MH4,PR,4,Low-High-Low RPM
+H086.wav,H086,False,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H789.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H790.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H791.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H792.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H793.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H794.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H795.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H796.wav,H086,True,Healthy,MH4,PR,5,Change in RPM with change in pitch
+H087.wav,H087,False,Healthy,MH4,PR,6,Turn Left
+H797.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H798.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H799.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H800.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H801.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H802.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H803.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H804.wav,H087,True,Healthy,MH4,PR,6,Turn Left
+H088.wav,H088,False,Healthy,MH4,PR,7,Turn Right
+H805.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H806.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H807.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H808.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H809.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H810.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H811.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H812.wav,H088,True,Healthy,MH4,PR,7,Turn Right
+H089.wav,H089,False,Healthy,MH4,PR,8,Pitch Right
+H813.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H814.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H815.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H816.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H817.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H818.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H819.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H820.wav,H089,True,Healthy,MH4,PR,8,Pitch Right
+H090.wav,H090,False,Healthy,MH4,PR,9,Pitch Left
+H821.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H822.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H823.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H824.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H825.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H826.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H827.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H828.wav,H090,True,Healthy,MH4,PR,9,Pitch Left
+H091.wav,H091,False,Healthy,MH3,PR,1,Stable RPM
+H829.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H830.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H831.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H832.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H833.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H834.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H835.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H836.wav,H091,True,Healthy,MH3,PR,1,Stable RPM
+H092.wav,H092,False,Healthy,MH3,PR,2,Low-High RPM
+H837.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H838.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H839.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H840.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H841.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H842.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H843.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H844.wav,H092,True,Healthy,MH3,PR,2,Low-High RPM
+H093.wav,H093,False,Healthy,MH3,PR,3,High-Low RPM
+H845.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H846.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H847.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H848.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H849.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H850.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H851.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H852.wav,H093,True,Healthy,MH3,PR,3,High-Low RPM
+H094.wav,H094,False,Healthy,MH3,PR,4,Low-High-Low RPM
+H853.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H854.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H855.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H856.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H857.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H858.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H859.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H860.wav,H094,True,Healthy,MH3,PR,4,Low-High-Low RPM
+H095.wav,H095,False,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H861.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H862.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H863.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H864.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H865.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H866.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H867.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H868.wav,H095,True,Healthy,MH3,PR,5,Change in RPM with change in pitch
+H096.wav,H096,False,Healthy,MH3,PR,6,Turn Left
+H869.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H870.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H871.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H872.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H873.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H874.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H875.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H876.wav,H096,True,Healthy,MH3,PR,6,Turn Left
+H097.wav,H097,False,Healthy,MH3,PR,7,Turn Right
+H877.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H878.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H879.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H880.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H881.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H882.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H883.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H884.wav,H097,True,Healthy,MH3,PR,7,Turn Right
+H098.wav,H098,False,Healthy,MH3,PR,8,Pitch Right
+H885.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H886.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H887.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H888.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H889.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H890.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H891.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H892.wav,H098,True,Healthy,MH3,PR,8,Pitch Right
+H099.wav,H099,False,Healthy,MH3,PR,9,Pitch Left
+H893.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H894.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H895.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H896.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H897.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H898.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H899.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H900.wav,H099,True,Healthy,MH3,PR,9,Pitch Left
+H100.wav,H100,False,Healthy,MH1,PR,1,Stable RPM
+H901.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H902.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H903.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H904.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H905.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H906.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H907.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H908.wav,H100,True,Healthy,MH1,PR,1,Stable RPM
+H101.wav,H101,False,Healthy,MH1,PR,2,Low-High RPM
+H909.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H910.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H911.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H912.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H913.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H914.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H915.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H916.wav,H101,True,Healthy,MH1,PR,2,Low-High RPM
+H102.wav,H102,False,Healthy,MH1,PR,3,High-Low RPM
+H917.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H918.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H919.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H920.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H921.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H922.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H923.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H924.wav,H102,True,Healthy,MH1,PR,3,High-Low RPM
+H103.wav,H103,False,Healthy,MH1,PR,4,Low-High-Low RPM
+H925.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H926.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H927.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H928.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H929.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H930.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H931.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H932.wav,H103,True,Healthy,MH1,PR,4,Low-High-Low RPM
+H104.wav,H104,False,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H933.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H934.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H935.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H936.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H937.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H938.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H939.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H940.wav,H104,True,Healthy,MH1,PR,5,Change in RPM with change in pitch
+H105.wav,H105,False,Healthy,MH1,PR,6,Turn Left
+H941.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H942.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H943.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H944.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H945.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H946.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H947.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H948.wav,H105,True,Healthy,MH1,PR,6,Turn Left
+H106.wav,H106,False,Healthy,MH1,PR,7,Turn Right
+H949.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H950.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H951.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H952.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H953.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H954.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H955.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H956.wav,H106,True,Healthy,MH1,PR,7,Turn Right
+H107.wav,H107,False,Healthy,MH1,PR,8,Pitch Right
+H957.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H958.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H959.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H960.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H961.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H962.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H963.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H964.wav,H107,True,Healthy,MH1,PR,8,Pitch Right
+H108.wav,H108,False,Healthy,MH1,PR,9,Pitch Left
+H965.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H966.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H967.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H968.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H969.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H970.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H971.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+H972.wav,H108,True,Healthy,MH1,PR,9,Pitch Left
+F001.wav,F001,False,Faulty,MH2,PB3,1,Stable RPM
+F082.wav,F001,True,Faulty,MH2,PB3,1,Stable RPM
+F083.wav,F001,True,Faulty,MH2,PB3,1,Stable RPM
+F002.wav,F002,False,Faulty,MH2,PB3,2,Low-High RPM
+F084.wav,F002,True,Faulty,MH2,PB3,2,Low-High RPM
+F085.wav,F002,True,Faulty,MH2,PB3,2,Low-High RPM
+F003.wav,F003,False,Faulty,MH2,PB3,3,High-Low RPM
+F086.wav,F003,True,Faulty,MH2,PB3,3,High-Low RPM
+F087.wav,F003,True,Faulty,MH2,PB3,3,High-Low RPM
+F004.wav,F004,False,Faulty,MH2,PB3,4,Low-High-Low RPM
+F088.wav,F004,True,Faulty,MH2,PB3,4,Low-High-Low RPM
+F089.wav,F004,True,Faulty,MH2,PB3,4,Low-High-Low RPM
+F005.wav,F005,False,Faulty,MH2,PB3,5,Change in RPM with change in pitch
+F090.wav,F005,True,Faulty,MH2,PB3,5,Change in RPM with change in pitch
+F091.wav,F005,True,Faulty,MH2,PB3,5,Change in RPM with change in pitch
+F006.wav,F006,False,Faulty,MH2,PB3,6,Turn Left
+F092.wav,F006,True,Faulty,MH2,PB3,6,Turn Left
+F093.wav,F006,True,Faulty,MH2,PB3,6,Turn Left
+F007.wav,F007,False,Faulty,MH2,PB3,7,Turn Right
+F094.wav,F007,True,Faulty,MH2,PB3,7,Turn Right
+F095.wav,F007,True,Faulty,MH2,PB3,7,Turn Right
+F008.wav,F008,False,Faulty,MH2,PB3,8,Pitch Right
+F096.wav,F008,True,Faulty,MH2,PB3,8,Pitch Right
+F097.wav,F008,True,Faulty,MH2,PB3,8,Pitch Right
+F009.wav,F009,False,Faulty,MH2,PB3,9,Pitch Left
+F098.wav,F009,True,Faulty,MH2,PB3,9,Pitch Left
+F099.wav,F009,True,Faulty,MH2,PB3,9,Pitch Left
+F010.wav,F010,False,Faulty,MF1,PR,1,Stable RPM
+F100.wav,F010,True,Faulty,MF1,PR,1,Stable RPM
+F101.wav,F010,True,Faulty,MF1,PR,1,Stable RPM
+F011.wav,F011,False,Faulty,MF1,PR,2,Low-High RPM
+F102.wav,F011,True,Faulty,MF1,PR,2,Low-High RPM
+F103.wav,F011,True,Faulty,MF1,PR,2,Low-High RPM
+F012.wav,F012,False,Faulty,MF1,PR,3,High-Low RPM
+F104.wav,F012,True,Faulty,MF1,PR,3,High-Low RPM
+F105.wav,F012,True,Faulty,MF1,PR,3,High-Low RPM
+F013.wav,F013,False,Faulty,MF1,PR,4,Low-High-Low RPM
+F106.wav,F013,True,Faulty,MF1,PR,4,Low-High-Low RPM
+F107.wav,F013,True,Faulty,MF1,PR,4,Low-High-Low RPM
+F014.wav,F014,False,Faulty,MF1,PR,5,Change in RPM with change in pitch
+F108.wav,F014,True,Faulty,MF1,PR,5,Change in RPM with change in pitch
+F109.wav,F014,True,Faulty,MF1,PR,5,Change in RPM with change in pitch
+F015.wav,F015,False,Faulty,MF1,PR,6,Turn Left
+F110.wav,F015,True,Faulty,MF1,PR,6,Turn Left
+F111.wav,F015,True,Faulty,MF1,PR,6,Turn Left
+F016.wav,F016,False,Faulty,MF1,PR,7,Turn Right
+F112.wav,F016,True,Faulty,MF1,PR,7,Turn Right
+F113.wav,F016,True,Faulty,MF1,PR,7,Turn Right
+F017.wav,F017,False,Faulty,MF1,PR,8,Pitch Right
+F114.wav,F017,True,Faulty,MF1,PR,8,Pitch Right
+F115.wav,F017,True,Faulty,MF1,PR,8,Pitch Right
+F018.wav,F018,False,Faulty,MF1,PR,9,Pitch Left
+F116.wav,F018,True,Faulty,MF1,PR,9,Pitch Left
+F117.wav,F018,True,Faulty,MF1,PR,9,Pitch Left
+F019.wav,F019,False,Faulty,MH2,PB2,1,Stable RPM
+F118.wav,F019,True,Faulty,MH2,PB2,1,Stable RPM
+F119.wav,F019,True,Faulty,MH2,PB2,1,Stable RPM
+F020.wav,F020,False,Faulty,MH2,PB2,2,Low-High RPM
+F120.wav,F020,True,Faulty,MH2,PB2,2,Low-High RPM
+F121.wav,F020,True,Faulty,MH2,PB2,2,Low-High RPM
+F021.wav,F021,False,Faulty,MH2,PB2,3,High-Low RPM
+F122.wav,F021,True,Faulty,MH2,PB2,3,High-Low RPM
+F123.wav,F021,True,Faulty,MH2,PB2,3,High-Low RPM
+F022.wav,F022,False,Faulty,MH2,PB2,4,Low-High-Low RPM
+F124.wav,F022,True,Faulty,MH2,PB2,4,Low-High-Low RPM
+F125.wav,F022,True,Faulty,MH2,PB2,4,Low-High-Low RPM
+F023.wav,F023,False,Faulty,MH2,PB2,5,Change in RPM with change in pitch
+F126.wav,F023,True,Faulty,MH2,PB2,5,Change in RPM with change in pitch
+F127.wav,F023,True,Faulty,MH2,PB2,5,Change in RPM with change in pitch
+F024.wav,F024,False,Faulty,MH2,PB2,6,Turn Left
+F128.wav,F024,True,Faulty,MH2,PB2,6,Turn Left
+F129.wav,F024,True,Faulty,MH2,PB2,6,Turn Left
+F025.wav,F025,False,Faulty,MH2,PB2,7,Turn Right
+F130.wav,F025,True,Faulty,MH2,PB2,7,Turn Right
+F131.wav,F025,True,Faulty,MH2,PB2,7,Turn Right
+F026.wav,F026,False,Faulty,MH2,PB2,8,Pitch Right
+F132.wav,F026,True,Faulty,MH2,PB2,8,Pitch Right
+F133.wav,F026,True,Faulty,MH2,PB2,8,Pitch Right
+F027.wav,F027,False,Faulty,MH2,PB2,9,Pitch Left
+F134.wav,F027,True,Faulty,MH2,PB2,9,Pitch Left
+F135.wav,F027,True,Faulty,MH2,PB2,9,Pitch Left
+F028.wav,F028,False,Faulty,MF2,PR,1,Stable RPM
+F136.wav,F028,True,Faulty,MF2,PR,1,Stable RPM
+F137.wav,F028,True,Faulty,MF2,PR,1,Stable RPM
+F029.wav,F029,False,Faulty,MF2,PR,2,Low-High RPM
+F138.wav,F029,True,Faulty,MF2,PR,2,Low-High RPM
+F139.wav,F029,True,Faulty,MF2,PR,2,Low-High RPM
+F030.wav,F030,False,Faulty,MF2,PR,3,High-Low RPM
+F140.wav,F030,True,Faulty,MF2,PR,3,High-Low RPM
+F141.wav,F030,True,Faulty,MF2,PR,3,High-Low RPM
+F031.wav,F031,False,Faulty,MF2,PR,4,Low-High-Low RPM
+F142.wav,F031,True,Faulty,MF2,PR,4,Low-High-Low RPM
+F143.wav,F031,True,Faulty,MF2,PR,4,Low-High-Low RPM
+F032.wav,F032,False,Faulty,MF2,PR,5,Change in RPM with change in pitch
+F144.wav,F032,True,Faulty,MF2,PR,5,Change in RPM with change in pitch
+F145.wav,F032,True,Faulty,MF2,PR,5,Change in RPM with change in pitch
+F033.wav,F033,False,Faulty,MF2,PR,6,Turn Left
+F146.wav,F033,True,Faulty,MF2,PR,6,Turn Left
+F147.wav,F033,True,Faulty,MF2,PR,6,Turn Left
+F034.wav,F034,False,Faulty,MF2,PR,7,Turn Right
+F148.wav,F034,True,Faulty,MF2,PR,7,Turn Right
+F149.wav,F034,True,Faulty,MF2,PR,7,Turn Right
+F035.wav,F035,False,Faulty,MF2,PR,8,Pitch Right
+F150.wav,F035,True,Faulty,MF2,PR,8,Pitch Right
+F151.wav,F035,True,Faulty,MF2,PR,8,Pitch Right
+F036.wav,F036,False,Faulty,MF2,PR,9,Pitch Left
+F152.wav,F036,True,Faulty,MF2,PR,9,Pitch Left
+F153.wav,F036,True,Faulty,MF2,PR,9,Pitch Left
+F037.wav,F037,False,Faulty,MH4,PB3,1,Stable RPM
+F154.wav,F037,True,Faulty,MH4,PB3,1,Stable RPM
+F155.wav,F037,True,Faulty,MH4,PB3,1,Stable RPM
+F038.wav,F038,False,Faulty,MH4,PB3,2,Low-High RPM
+F156.wav,F038,True,Faulty,MH4,PB3,2,Low-High RPM
+F157.wav,F038,True,Faulty,MH4,PB3,2,Low-High RPM
+F039.wav,F039,False,Faulty,MH4,PB3,3,High-Low RPM
+F158.wav,F039,True,Faulty,MH4,PB3,3,High-Low RPM
+F159.wav,F039,True,Faulty,MH4,PB3,3,High-Low RPM
+F040.wav,F040,False,Faulty,MH4,PB3,4,Low-High-Low RPM
+F160.wav,F040,True,Faulty,MH4,PB3,4,Low-High-Low RPM
+F161.wav,F040,True,Faulty,MH4,PB3,4,Low-High-Low RPM
+F041.wav,F041,False,Faulty,MH4,PB3,5,Change in RPM with change in pitch
+F162.wav,F041,True,Faulty,MH4,PB3,5,Change in RPM with change in pitch
+F163.wav,F041,True,Faulty,MH4,PB3,5,Change in RPM with change in pitch
+F042.wav,F042,False,Faulty,MH4,PB3,6,Turn Left
+F164.wav,F042,True,Faulty,MH4,PB3,6,Turn Left
+F165.wav,F042,True,Faulty,MH4,PB3,6,Turn Left
+F043.wav,F043,False,Faulty,MH4,PB3,7,Turn Right
+F166.wav,F043,True,Faulty,MH4,PB3,7,Turn Right
+F167.wav,F043,True,Faulty,MH4,PB3,7,Turn Right
+F044.wav,F044,False,Faulty,MH4,PB3,8,Pitch Right
+F168.wav,F044,True,Faulty,MH4,PB3,8,Pitch Right
+F169.wav,F044,True,Faulty,MH4,PB3,8,Pitch Right
+F045.wav,F045,False,Faulty,MH4,PB3,9,Pitch Left
+F170.wav,F045,True,Faulty,MH4,PB3,9,Pitch Left
+F171.wav,F045,True,Faulty,MH4,PB3,9,Pitch Left
+F046.wav,F046,False,Faulty,MF3,PR,1,Stable RPM
+F172.wav,F046,True,Faulty,MF3,PR,1,Stable RPM
+F173.wav,F046,True,Faulty,MF3,PR,1,Stable RPM
+F047.wav,F047,False,Faulty,MF3,PR,2,Low-High RPM
+F174.wav,F047,True,Faulty,MF3,PR,2,Low-High RPM
+F175.wav,F047,True,Faulty,MF3,PR,2,Low-High RPM
+F048.wav,F048,False,Faulty,MF3,PR,3,High-Low RPM
+F176.wav,F048,True,Faulty,MF3,PR,3,High-Low RPM
+F177.wav,F048,True,Faulty,MF3,PR,3,High-Low RPM
+F049.wav,F049,False,Faulty,MF3,PR,4,Low-High-Low RPM
+F178.wav,F049,True,Faulty,MF3,PR,4,Low-High-Low RPM
+F179.wav,F049,True,Faulty,MF3,PR,4,Low-High-Low RPM
+F050.wav,F050,False,Faulty,MF3,PR,5,Change in RPM with change in pitch
+F180.wav,F050,True,Faulty,MF3,PR,5,Change in RPM with change in pitch
+F181.wav,F050,True,Faulty,MF3,PR,5,Change in RPM with change in pitch
+F051.wav,F051,False,Faulty,MF3,PR,6,Turn Left
+F182.wav,F051,True,Faulty,MF3,PR,6,Turn Left
+F183.wav,F051,True,Faulty,MF3,PR,6,Turn Left
+F052.wav,F052,False,Faulty,MF3,PR,7,Turn Right
+F184.wav,F052,True,Faulty,MF3,PR,7,Turn Right
+F185.wav,F052,True,Faulty,MF3,PR,7,Turn Right
+F053.wav,F053,False,Faulty,MF3,PR,8,Pitch Right
+F186.wav,F053,True,Faulty,MF3,PR,8,Pitch Right
+F187.wav,F053,True,Faulty,MF3,PR,8,Pitch Right
+F054.wav,F054,False,Faulty,MF3,PR,9,Pitch Left
+F188.wav,F054,True,Faulty,MF3,PR,9,Pitch Left
+F189.wav,F054,True,Faulty,MF3,PR,9,Pitch Left
+F055.wav,F055,False,Faulty,MH4,PB2,1,Stable RPM
+F190.wav,F055,True,Faulty,MH4,PB2,1,Stable RPM
+F191.wav,F055,True,Faulty,MH4,PB2,1,Stable RPM
+F056.wav,F056,False,Faulty,MH4,PB2,2,Low-High RPM
+F192.wav,F056,True,Faulty,MH4,PB2,2,Low-High RPM
+F193.wav,F056,True,Faulty,MH4,PB2,2,Low-High RPM
+F057.wav,F057,False,Faulty,MH4,PB2,3,High-Low RPM
+F194.wav,F057,True,Faulty,MH4,PB2,3,High-Low RPM
+F195.wav,F057,True,Faulty,MH4,PB2,3,High-Low RPM
+F058.wav,F058,False,Faulty,MH4,PB2,4,Low-High-Low RPM
+F196.wav,F058,True,Faulty,MH4,PB2,4,Low-High-Low RPM
+F197.wav,F058,True,Faulty,MH4,PB2,4,Low-High-Low RPM
+F059.wav,F059,False,Faulty,MH4,PB2,5,Change in RPM with change in pitch
+F198.wav,F059,True,Faulty,MH4,PB2,5,Change in RPM with change in pitch
+F199.wav,F059,True,Faulty,MH4,PB2,5,Change in RPM with change in pitch
+F060.wav,F060,False,Faulty,MH4,PB2,6,Turn Left
+F200.wav,F060,True,Faulty,MH4,PB2,6,Turn Left
+F061.wav,F061,False,Faulty,MH4,PB2,7,Turn Right
+F062.wav,F062,False,Faulty,MH4,PB2,8,Pitch Right
+F063.wav,F063,False,Faulty,MH4,PB2,9,Pitch Left
+F064.wav,F064,False,Faulty,MH3,PB1,1,Stable RPM
+F065.wav,F065,False,Faulty,MH3,PB1,2,Low-High RPM
+F066.wav,F066,False,Faulty,MH3,PB1,3,High-Low RPM
+F067.wav,F067,False,Faulty,MH3,PB1,4,Low-High-Low RPM
+F068.wav,F068,False,Faulty,MH3,PB1,5,Change in RPM with change in pitch
+F069.wav,F069,False,Faulty,MH3,PB1,6,Turn Left
+F070.wav,F070,False,Faulty,MH3,PB1,7,Turn Right
+F071.wav,F071,False,Faulty,MH3,PB1,8,Pitch Right
+F072.wav,F072,False,Faulty,MH3,PB1,9,Pitch Left
+F073.wav,F073,False,Faulty,MH3,PB1,1,Stable RPM
+F074.wav,F074,False,Faulty,MH3,PB1,2,Low-High RPM
+F075.wav,F075,False,Faulty,MH3,PB1,3,High-Low RPM
+F076.wav,F076,False,Faulty,MH3,PB1,4,Low-High-Low RPM
+F077.wav,F077,False,Faulty,MH3,PB1,5,Change in RPM with change in pitch
+F078.wav,F078,False,Faulty,MH3,PB1,6,Turn Left
+F079.wav,F079,False,Faulty,MH3,PB1,7,Turn Right
+F080.wav,F080,False,Faulty,MH3,PB1,8,Pitch Right
+F081.wav,F081,False,Faulty,MH3,PB1,9,Pitch Left
