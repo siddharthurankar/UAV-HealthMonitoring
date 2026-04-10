@@ -382,7 +382,7 @@ If you use this work in research:
 ## 🔗 Links & Support
 
 - **GitHub Issues:** [Report bugs or request features](https://github.com/siddharthurankar/UAV-HealthMonitoring/issues)
-- **Email:** siddharth.urankar@gmail.com
+- **Email:** siddharthurankar21@gmail.com, Chawlaps@mail.uc.edu
 - **Documentation:** See [CS5002 Final Design Report](../CS5002%20Final%20Design%20Report.md)
 
 ---
